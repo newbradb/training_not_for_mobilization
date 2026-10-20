@@ -1,0 +1,1 @@
+- [Математика](https://github.com/newbradb/training_not_for_mobilization/tree/main/mathematics)

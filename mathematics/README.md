@@ -1,1 +1,1 @@
-- [the_fourth_law]() - узято із їхніх рекомендацій для ML/CV Engineer опубліковано на [ДОУ](https://dou.ua/forums/topic/62000/)
+- [the_fourth_law](https://github.com/newbradb/training_not_for_mobilization/tree/main/mathematics/mathematics_fourth_law) - узято із їхніх рекомендацій для ML/CV Engineer опубліковано на [ДОУ](https://dou.ua/forums/topic/62000/)
