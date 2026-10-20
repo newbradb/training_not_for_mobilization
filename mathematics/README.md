@@ -1,0 +1,1 @@
+- [the_fourth_law]() - узято із їхніх рекомендацій для ML/CV Engineer опубліковано на [ДОУ](https://dou.ua/forums/topic/62000/)
